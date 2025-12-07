@@ -78,4 +78,5 @@ This implementation assumes:
 
 ---
 
-Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+Created by [blackhebrewisraeli](https://github.com/blackhebrewisraeli) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+
